@@ -17,15 +17,7 @@ Créer un environnement de test permettant de reproduire des incidents systèmes
 - DNS
 
 ## Topologie simplifiée
-Internet
-⬇ 
-Routeur
-⬇ 
-Switch
-⬇ 
-├── Poste client Windows
-└── Serveur Windows (AD / DNS / DHCP)
-<img width="561" height="560" alt="LAB-001-HomeLab drawio" src="https://github.com/user-attachments/assets/e8bd77f3-b6fc-46a5-8417-521145ab916f" />
+![LAB-001 Network Diagram]<img width="561" height="560" alt="LAB-001-HomeLab drawio" src="https://github.com/user-attachments/assets/e8bd77f3-b6fc-46a5-8417-521145ab916f" />
 
 
 ## Utilisation du Lab
