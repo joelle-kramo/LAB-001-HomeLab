@@ -25,6 +25,8 @@ Switch
 ⬇ 
 ├── Poste client Windows
 └── Serveur Windows (AD / DNS / DHCP)
+<img width="561" height="560" alt="LAB-001-HomeLab drawio" src="https://github.com/user-attachments/assets/e8bd77f3-b6fc-46a5-8417-521145ab916f" />
+
 
 ## Utilisation du Lab
 
@@ -47,4 +49,3 @@ Ce laboratoire permet de simuler :
 ## Objectif pédagogique
 
 Développer une logique de technicien support / systèmes en reproduisant des incidents réels rencontrés en entreprise.
-<img width="561" height="560" alt="LAB-001-HomeLab drawio" src="https://github.com/user-attachments/assets/3309c017-ceb8-4126-b84d-b78cbe087841" />
