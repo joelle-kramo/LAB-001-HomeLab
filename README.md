@@ -47,3 +47,4 @@ Ce laboratoire permet de simuler :
 ## Objectif pédagogique
 
 Développer une logique de technicien support / systèmes en reproduisant des incidents réels rencontrés en entreprise.
+<img width="561" height="560" alt="LAB-001-HomeLab drawio" src="https://github.com/user-attachments/assets/3309c017-ceb8-4126-b84d-b78cbe087841" />
