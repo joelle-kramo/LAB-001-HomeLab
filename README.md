@@ -24,7 +24,7 @@ Créer un environnement de test permettant de reproduire des incidents systèmes
 
 Ce laboratoire permet de simuler :
 
-- Perte d'accès Internetù
+- Perte d'accès Internet
 - Problème DNS
 - DHCP défaillant
 - Poste hors domaine
